@@ -15,7 +15,7 @@ localStorage.setItem("count", 0);
 const App = () => {
     return (
         <div className={tabStyles.tabs}>
-            <h1>React Home work</h1>
+            <h1>React Home work(useState, useEffect)</h1>
             <Tabs>
                 <Tab label="Click">
                     <Click/>
