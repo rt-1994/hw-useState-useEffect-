@@ -5,5 +5,16 @@
   align-items: center;
   justify-content: center;
   gap: 15px;
+  font-size: 24px;
+
+  select{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+
+  }
 }
+
 
